@@ -1,0 +1,1 @@
+# idpay-portal-welfare-backend-rules-config
